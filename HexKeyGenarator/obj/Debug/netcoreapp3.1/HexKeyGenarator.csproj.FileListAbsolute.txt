@@ -1,0 +1,10 @@
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\bin\Debug\netcoreapp3.1\HexKeyGenarator.deps.json
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\bin\Debug\netcoreapp3.1\HexKeyGenarator.dll
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\bin\Debug\netcoreapp3.1\HexKeyGenarator.pdb
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\obj\Debug\netcoreapp3.1\HexKeyGenarator.csproj.AssemblyReference.cache
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\obj\Debug\netcoreapp3.1\HexKeyGenarator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\obj\Debug\netcoreapp3.1\HexKeyGenarator.AssemblyInfoInputs.cache
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\obj\Debug\netcoreapp3.1\HexKeyGenarator.AssemblyInfo.cs
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\obj\Debug\netcoreapp3.1\HexKeyGenarator.csproj.CoreCompileInputs.cache
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\obj\Debug\netcoreapp3.1\HexKeyGenarator.dll
+C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\obj\Debug\netcoreapp3.1\HexKeyGenarator.pdb
