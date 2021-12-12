@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HexKeyGenarator</id>
+    <version>1.0.0</version>
+    <authors>HexKeyGenarator</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\A HOQUE\source\repos\WebApplication5\HexKeyGenarator\bin\Debug\netcoreapp3.1\HexKeyGenarator.dll" target="lib\netcoreapp3.1\HexKeyGenarator.dll" />
+  </files>
+</package>
